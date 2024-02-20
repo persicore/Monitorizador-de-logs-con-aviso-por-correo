@@ -1,12 +1,12 @@
 <LOG>
-<msg category="ExtranetClientes.ImpresionPush"  time="2024-02-02 17:19:59" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
-<msg category="ExtranetClientes.ImpresionPush" source="ImpresionPush" logname="" company="" time="2024-02-02 17:18:59" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
-<msg category="ExtranetClientes.ImpresionPush" source="ImpresionPush" logname="" company="" time="2024-02-02 17:17:59" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
-<msg category="ExtranetClientes.ImpresionPush" source="ImpresionPush" logname="" company="" time="2024-02-02 17:17:59" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
-<msg category="ExtranetClientes.ImpresionPush" source="ImpresionPush" logname="" company="" time="2024-02-02 17:17:45" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
-<msg category="ExtranetClientes.ImpresionPush" source="ImpresionPush" logname="" company="" time="2024-02-02 17:17:50" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
-<msg category="ExtranetClientes.ImpresionPush" source="ImpresionPush" logname="" company="" time="2024-02-02 17:17:45" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
-<msg category="ExtranetClientes.ImpresionPush" source="ImpresionPush" logname="" company="" time="2023-11-11 17:17:45" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
-<msg category="ExtranetClientes.ImpresionPush" source="ImpresionPush" logname="" company="" time="2023-11-11 17:17:45" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
+<msg   time="2024-02-02 17:19:59" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
+<msg  time="2024-02-02 17:18:59" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
+<msg  time="2024-02-02 17:17:59" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
+<msg  time="2024-02-02 17:17:59" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
+<msg   time="2024-02-02 17:17:45" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
+<msg   time="2024-02-02 17:17:50" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
+<msg  time="2024-02-02 17:17:45" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
+<msg  time="2023-11-11 17:17:45" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
+<msg  time="2023-11-11 17:17:45" level="Error">Error al generar el Push de reposicionesEl servidor RPC no está disponible. (Excepción de HRESULT: 0x800706BA)</msg>
 </LOG>
 
